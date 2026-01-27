@@ -1,4 +1,4 @@
-# Ignorar el entorno virtual (cocacolavenv es el nombre del entorno virtual)
+# Ignorar el entorno virtual (beast es el nombre del entorno virtual)
 beast/
 
 # Ignorar archivos de Python generados automáticamente
