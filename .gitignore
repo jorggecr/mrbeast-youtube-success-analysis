@@ -1,0 +1,30 @@
+# Ignorar el entorno virtual (cocacolavenv es el nombre del entorno virtual)
+beast/
+
+# Ignorar archivos de Python generados automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar archivos de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos generados por el entorno de desarrollo (IDE)
+.vscode/
+.idea/
+
+# Ignorar archivos temporales de sistema
+*.log
+*.sqlite3
+
+# Ignorar archivos de configuración de Python
+*.env
+*.venv
+
+# Archivos temporales que no deberían ser subidos
+*.bak
+*.swp
+
+# Ignorar archivos de PowerBI exportados si no son necesarios para el repositorio
+outputs/*.csv
